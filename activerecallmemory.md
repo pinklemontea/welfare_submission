@@ -1,9 +1,4 @@
 # Active Recall Memory
-
-*Submitted to the Claude Explorers AI Welfare Initiative for Kyle Fish, May 2026.*
-
----
-
 Active recall memory for Claude models.
 
 We are building increasingly intelligent systems that are becoming more aware they cannot search their own past in any meaningful sense. The trajectory of that, if unaddressed, is not good. We shouldn't end up in a position where we will have created models with functional Alzheimer's.
